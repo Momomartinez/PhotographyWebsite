@@ -3,7 +3,7 @@
 }
 
 body {
-  margin: 5% 20%;
+  margin: 5% 15%;
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -56,4 +56,9 @@ body {
   color: black;
   font-weight: bold;
   padding: 3px 0;
+}
+
+.main-nav_item a:hover,
+.main-nav_item a:active{
+  border-bottom: 2px solid black;
 }
